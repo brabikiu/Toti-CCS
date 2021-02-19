@@ -6,7 +6,6 @@ h2 {
     line-height: 79px;
     color: #FFB300;
     text-align: center;
-   
 }
 
 section{ 
@@ -14,11 +13,12 @@ section{
     font-weight: 600;
     line-height: 1.61;
     color: black;
-
 }
+
+
 hr{             
-          
-    margin-bottom: 34px;    }
+    margin-bottom: 34px;   
+ }
 
 h3{
     
@@ -34,14 +34,12 @@ div>ul{
     font-size: 21px;
     font-weight: 600;
     Line-height: 21px * 1.61;
-    
       }
       
       section>ol{
         font-size: 21px;
         font-weight: 600;
         Line-height: 21px * 1.61;
-          
       }
 
 img { 
@@ -54,7 +52,6 @@ img {
 }
 
 h5 {
-
     font-size: 21px;
     color: black;
     text-align: right; 
@@ -65,9 +62,6 @@ div>img {
     width 600px;
     height: 374px;
     border: none;
-            
-    
-
 }
 
 h4{
@@ -77,14 +71,17 @@ h4{
 h1:hover{
 color:#FFB300; 
 }
+
+
 h1         {
     font-weight: 900; 
     font-size: 80px;
     color: black;
     text-align: center;
-
     { 
         
-    
+  
+        
+
 
     
